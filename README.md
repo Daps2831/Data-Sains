@@ -1,5 +1,5 @@
 # Data-Sains
-Tubes Data Sains Link: [https://data-sains-afiqjaezjjdnckvmlaxzvt.streamlit.app/](https://data-sains-test.streamlit.app/)
+Tubes Data Sains Link: https://data-sains-test.streamlit.app/
 
 # Obesity Level Prediction
 
